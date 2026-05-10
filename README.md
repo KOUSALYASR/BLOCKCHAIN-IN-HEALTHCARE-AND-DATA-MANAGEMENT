@@ -1,4 +1,3 @@
-````md
 # Decentralized File Storage using Blockchain: Implementation and Proof-of-Work Analysis
 
 ## Overview
@@ -179,4 +178,3 @@ The proposed system provides a foundational architecture for secure decentralize
 ## Future Work
 - Implement encrypted off-chain storage for improved scalability and performance
 - Develop a web-based interface for decentralized file management
-````
